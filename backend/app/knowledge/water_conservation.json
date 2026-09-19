@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kb-001",
+    "topic": "Shower Water Conservation & Flow Aerators",
+    "content": "A standard showerhead releases approximately 9.5 to 12 liters of water per minute. Reducing shower duration from 10 minutes to 5 minutes immediately saves 45 to 50 liters per person every day. Installing a high-efficiency WaterSense-certified aerator or low-flow showerhead reduces flow to 6.0 L/min without sacrificing water pressure, cutting shower water consumption by up to 40%.",
+    "keywords": ["shower", "bathing", "aerator", "low-flow", "showerhead", "minutes", "bath", "hot water"],
+    "source": "EPA WaterSense & CPHEEO Guidelines",
+    "savings_potential_liters_per_day": 40
+  },
+  {
+    "id": "kb-002",
+    "topic": "Bucket Bathing Efficiency",
+    "content": "A traditional bucket bath utilizes a standard 18 to 20 liter bucket, which provides a clean, thorough bath using significantly less water than a typical 8-minute shower (which consumes over 75 liters). Switching from long showers to bucket baths or using a bucket fill limit is one of the quickest, zero-cost behavioral interventions to cut personal water consumption by 60% to 75%.",
+    "keywords": ["bucket", "bucket bath", "bath", "traditional bathing", "mug", "showering"],
+    "source": "Ministry of Jal Shakti Water Conservation Field Handbook",
+    "savings_potential_liters_per_day": 55
+  },
+  {
+    "id": "kb-003",
+    "topic": "Toilet Flushes and Dual-Flush Retrofitting",
+    "content": "Single-flush conventional cisterns use 9 to 12 liters per flush. Toilets account for nearly 24% to 30% of daily indoor household water consumption. Dual-flush mechanisms use only 3 liters for liquid waste and 6 liters for solid waste, averaging 4.2 liters per flush. Households with conventional tanks can install inexpensive dual-flush conversion kits or place a sealed 1-liter displacement bottle in the tank to save 1 liter per flush immediately.",
+    "keywords": ["toilet", "flush", "cistern", "dual flush", "commode", "flushing", "restroom", "sanitation"],
+    "source": "Alliance for Water Efficiency",
+    "savings_potential_liters_per_day": 35
+  },
+  {
+    "id": "kb-004",
+    "topic": "Silent Toilet Leak Detection (Food Coloring Test)",
+    "content": "A silent flapper valve leak in a toilet tank is the most insidious household water waste, silently leaking between 150 and 300 liters of potable water every single day without making any loud noise. To test: add 5 to 6 drops of dark food coloring or coffee into the toilet tank and wait 15 to 20 minutes without flushing. If colored water seeps into the bowl, the flapper valve or seal is worn out and requires a replacement that usually costs under $5.",
+    "keywords": ["leak", "toilet leak", "silent leak", "flapper", "food coloring", "dripping", "cistern leak"],
+    "source": "American Water Works Association (AWWA)",
+    "savings_potential_liters_per_day": 200
+  },
+  {
+    "id": "kb-005",
+    "topic": "Faucet Dripping and Pipe Seepage",
+    "content": "A faucet dripping at a rate of one drop per second squanders roughly 25 to 30 liters of clean water every day, amounting to over 9,000 liters annually. Most tap drips are caused by worn rubber O-rings or ceramic cartidges that take 10 minutes to replace with basic household tools. Checking hidden under-sink connections and outdoor hose spigots monthly prevents structural moisture damage and water loss.",
+    "keywords": ["faucet", "tap", "dripping", "pipe", "seepage", "washer", "o-ring", "plumbing"],
+    "source": "USGS Water Science School",
+    "savings_potential_liters_per_day": 25
+  },
+  {
+    "id": "kb-006",
+    "topic": "Kitchen Dishwashing: Running Tap vs. Two-Basin Method",
+    "content": "Washing dishes under a continuously running tap consumes between 60 and 100 liters of water per meal (tap flows at 10 L/min). Adopting the two-basin method—soaking/scrubbing dishes in a basin with soapy water, then dipping and rinsing in a second basin of clean water—consumes only 20 to 25 liters total. Installing a swivel aerator on the kitchen sink nozzle reduces tap flow from 10 L/min down to 5 L/min.",
+    "keywords": ["dishes", "dishwashing", "kitchen", "sink", "tap", "running water", "utensils", "cleaning dishes"],
+    "source": "Alliance for Water Efficiency Kitchen Guidelines",
+    "savings_potential_liters_per_day": 50
+  },
+  {
+    "id": "kb-007",
+    "topic": "Dishwasher Machine Best Practices",
+    "content": "Modern ENERGY STAR certified dishwashers use only 12 to 15 liters of water per cycle, which is actually more water-efficient than hand washing under a running tap for large families. However, running a dishwasher half-empty wastes water and energy. Always run full loads, scrape food off plates with a spatula instead of pre-rinsing under running water, and utilize the Eco or Express wash cycle for lightly soiled loads.",
+    "keywords": ["dishwasher", "appliance", "full load", "eco cycle", "pre-rinse", "kitchen machine"],
+    "source": "ENERGY STAR Water Guidelines",
+    "savings_potential_liters_per_day": 30
+  },
+  {
+    "id": "kb-008",
+    "topic": "Washing Machine Laundry Efficiency",
+    "content": "Traditional top-loading washing machines consume 100 to 130 liters per standard cycle, whereas front-loading high-efficiency (HE) machines use 45 to 60 liters per load—a 50% reduction. To maximize efficiency: always wait for a full laundry load, select the appropriate water level setting if manual, avoid unnecessary extra rinse cycles, and repurpose the rinse cycle wastewater for floor mopping or flushing.",
+    "keywords": ["laundry", "washing machine", "clothes", "front load", "top load", "wash cycle", "rinse"],
+    "source": "Water Conservation Alliance Household Appliance Audit",
+    "savings_potential_liters_per_day": 45
+  },
+  {
+    "id": "kb-009",
+    "topic": "Vehicle Washing: Bucket vs Hosepipe",
+    "content": "Washing a car or two-wheeler with an open hosepipe running for 15 to 20 minutes expends between 180 and 250 liters of potable water. In contrast, using two buckets (one with wash soapy water and one for clean rinse) with a microfiber sponge requires just 30 liters—saving upwards of 150 liters per wash. If using a hose is necessary, fit it with an automatic shut-off nozzle.",
+    "keywords": ["vehicle", "car", "bike", "washing car", "hose", "hosepipe", "bucket wash", "motorcycle"],
+    "source": "Urban Water Management Protocols",
+    "savings_potential_liters_per_day": 150
+  },
+  {
+    "id": "kb-010",
+    "topic": "Garden & Plant Watering Techniques",
+    "content": "Watering outdoor plants with an unmetered garden hose wastes up to 300 liters in 20 minutes. Up to 40% of this water is lost to rapid midday evaporation. Water plants early in the morning (before 8 AM) or in the late evening using a manual watering can or targeted drip irrigation. Applying organic mulch (wood bark, straw, or leaves) around plant roots preserves soil moisture and cuts watering frequency by half.",
+    "keywords": ["garden", "plants", "watering", "irrigation", "drip", "mulch", "lawn", "evaporation"],
+    "source": "FAO Sustainable Urban Gardening Advisory",
+    "savings_potential_liters_per_day": 80
+  },
+  {
+    "id": "kb-011",
+    "topic": "Greywater Reuse in Households",
+    "content": "Greywater is gently used wastewater originating from bathroom sinks, showers, bathtubs, and washing machines (excluding toilet blackwater and greasy kitchen water). Greywater can be safely captured in buckets and reused within 24 hours for toilet flushing or ornamental landscape watering. Using biodegradable laundry detergents allows greywater to be safely used for garden irrigation without harming plants.",
+    "keywords": ["greywater", "reuse", "recycling", "wastewater", "flushing with greywater", "secondary use"],
+    "source": "World Health Organization Greywater Guidelines",
+    "savings_potential_liters_per_day": 60
+  },
+  {
+    "id": "kb-012",
+    "topic": "Rainwater Harvesting for Urban Homes",
+    "content": "Rainwater harvesting captures runoff from rooftop catchments and directs it to storage tanks or percolation pits. A 100 square meter rooftop receiving 800 mm of annual rainfall can harvest up to 64,000 liters of clean, soft water each year (accounting for 80% collection efficiency). This water can meet non-potable household demands for months and recharges declining groundwater aquifers.",
+    "keywords": ["rainwater", "harvesting", "rooftop", "catchment", "storage tank", "groundwater recharge", "monsoon"],
+    "source": "Centre for Science and Environment (CSE)",
+    "savings_potential_liters_per_day": 120
+  },
+  {
+    "id": "kb-013",
+    "topic": "Floor Mopping and Hygiene Water Conservation",
+    "content": "Cleaning floors with continuous flowing water from a hose wastes tens of liters of fresh water. Using a microfiber dual-chamber spin mop system cleans surfaces hygienically with only 8 to 12 liters of water. The rejected rinse water from reverse osmosis (RO) drinking purifiers (which often rejects 3 liters of water for every 1 liter purified) can be collected and used for daily floor cleaning.",
+    "keywords": ["floor cleaning", "mopping", "ro reject", "hygiene", "spin mop", "surface cleaning"],
+    "source": "CPHEEO Domestic Water Hygiene Advisory",
+    "savings_potential_liters_per_day": 20
+  },
+  {
+    "id": "kb-014",
+    "topic": "Reverse Osmosis (RO) Reject Water Management",
+    "content": "Standard domestic RO water purifiers produce 3 to 4 liters of reject wastewater for every 1 liter of pure drinking water generated. Instead of letting this discharge drain away down the sink pipe, route the drain pipe into a dedicated 20-liter bucket or storage drum. This clean reject water (slightly higher in mineral salts) is completely safe for mopping floors, cleaning outdoor patios, washing utensils, and flushing toilets.",
+    "keywords": ["ro", "reverse osmosis", "purifier", "reject water", "drinking water", "waste water reuse"],
+    "source": "Bureau of Indian Standards / Water Quality Association",
+    "savings_potential_liters_per_day": 30
+  },
+  {
+    "id": "kb-015",
+    "topic": "UN Sustainable Development Goal 6 (SDG 6) Alignment",
+    "content": "SDG 6 targets universal access to safe water and sanitation by 2030, with Target 6.4 specifically aiming to substantially increase water-use efficiency across all sectors and address water scarcity. While global water stress is driven by agriculture and industry, responsible household water awareness builds demand-side efficiency and prevents local municipal water over-extraction, helping communities adapt to climate variations.",
+    "keywords": ["sdg 6", "sustainability", "united nations", "water scarcity", "target 6.4", "efficiency", "clean water"],
+    "source": "United Nations Sustainable Development Goals Report",
+    "savings_potential_liters_per_day": 0
+  }
+]
